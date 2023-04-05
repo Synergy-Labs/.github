@@ -1,1 +1,1 @@
-# .github
+# synergy-website
